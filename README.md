@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-<intro goes here>
+This is a comparative analysis and summary of ride share data for urban, suburban, and rural areas. This report provides evidence for preliminary recommendations, but further exploratory statistical analyses are likley necessary to determine the most profitable, specific changes. I can only give broad recommendations.
   
   ---
   
@@ -16,7 +16,7 @@
 * Suburban rider:driver ratio = 625:490 = 125:98 = 6.4
 * Urban rider:driver ratio =1625:2405= 0.68
 
-There's only a $15 difference in fare price for riders between rural and urban, but nearly a $40 difference in how much rural and urban drivers get paid. 
+There's only a $15 difference in fare price per ridefor riders between rural and urban, but nearly a $40 difference in how much rural and urban drivers get paid per ride. 
 
   ---
 
